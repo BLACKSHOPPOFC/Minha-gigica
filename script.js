@@ -6,9 +6,9 @@ const letter = document.getElementById("letter");
 
 button.addEventListener("click", () => {
 
-    intro.style.display = "none";
+    alert("O botão foi clicado!");
 
-    letter.style.display = "block";
+});
 
     window.scrollTo({
         top: 0,
