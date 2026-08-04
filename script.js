@@ -1,4 +1,4 @@
-const button = document.getElementById("openLetter");
+alert("JavaScript funcionando!");const button = document.getElementById("openLetter");
 const intro = document.getElementById("intro");
 const letter = document.getElementById("letter");
 
